@@ -2,4 +2,4 @@
 
 ### 💻👨🏻‍💻🥇🏆
 
-![Flutter](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Flutter-000000)
+![Flutter](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=flutter&logoColor=000000)
