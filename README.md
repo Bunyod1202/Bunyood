@@ -8,6 +8,6 @@
 
 
 
-[![Html](https://img.shields.io/badge/-Html-044192?style=for-the-plastic&logo=html&logoColor=fffff&?logoWidth=50)]
-[![Css](https://img.shields.io/badge/-Css-044192?style=for-the-plastic&logo=Css&logoColor=fffff&?logoWidth=50)]
-[![JavaScript](https://img.shields.io/badge/-JavaScript-044192?style=for-the-plastic&logo=JavaScript&logoColor=fffff&?logoWidth=50)]
+[vue](https://img.shields.io/badge/-vue-044192?style=for-the-plastic&logo=vue&logoColor=fffff&?logoWidth=50)
+[Css](https://img.shields.io/badge/-Css-044192?style=for-the-plastic&logo=Css&logoColor=fffff&?logoWidth=50)
+[JavaScript](https://img.shields.io/badge/-JavaScript-044192?style=for-the-plastic&logo=JavaScript&logoColor=fffff&?logoWidth=50)
